@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Houses" max_length="40" name="x_394230_real_esta_houses" type="collection">
+        <element label="Building" max_length="40" name="building" type="float"/>
+        <element label="Land" max_length="40" name="land" type="float"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="100" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Price" max_length="15" name="price" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="URL" max_length="1024" name="url" type="url"/>
+    </element>
+</database>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (houses)">008f0bb71b1020101114a9b4bd4bcba5</button>
+        <button_parent_table>x_394230_real_esta_houses</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>building</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Building</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>building</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-11-12 20:20:15</sys_created_on>
+        <sys_id>488f0bb71b1020101114a9b4bd4bcba5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Building</sys_name>
+        <sys_package display_value="Real Estate" source="x_394230_real_esta">243ccbf31b1020101114a9b4bd4bcb2b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Real Estate">243ccbf31b1020101114a9b4bd4bcb2b</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_488f0bb71b1020101114a9b4bd4bcba5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-11-12 20:20:15</sys_updated_on>
+        <table_name>x_394230_real_esta_houses</table_name>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=488f0bb71b1020101114a9b4bd4bcba5"/>
+</record_update>
